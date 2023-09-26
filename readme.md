@@ -1,4 +1,4 @@
-Go to restapi folder
+Open restapi folder in your VSCode Editor or any other.,
 then type python manage.py runserver
 
 Endpoints:
