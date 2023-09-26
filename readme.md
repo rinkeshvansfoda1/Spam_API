@@ -1,6 +1,9 @@
 Open restapi folder in your VSCode Editor or any other.,
 then type python manage.py runserver in the terminal
 
+127.0.0.1:8000 is my local server
+and most of the cases local server are on localhost or 127.0.0.1, and if any changes is there then it will be only of port number.
+
 Endpoints:
 it is global contact data:
 contacts/
