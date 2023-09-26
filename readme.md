@@ -1,5 +1,5 @@
 Open restapi folder in your VSCode Editor or any other.,
-then type python manage.py runserver
+then type python manage.py runserver in the terminal
 
 Endpoints:
 it is global contact data:
